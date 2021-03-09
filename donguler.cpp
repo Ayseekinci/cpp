@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
 
-	cout<<"İF ELSE PAROLA ORNEGI"<<endl;
+	cout<<"IF ELSE PAROLA ORNEGI"<<endl;
 	
 	string kullaniciadi="Ayseekinci";
 	string parola="asdasdasd";
@@ -34,7 +34,7 @@ int main() {
 	int Sayi1,Sayi2;
 	string islem;
 	
-	cout<<"İF ELSE HESAP MAKINESI..."<<endl;
+	cout<<"IF ELSE HESAP MAKINESI..."<<endl;
 	
 	cout<<"Sayi 1:";
 	cin>>Sayi1;
